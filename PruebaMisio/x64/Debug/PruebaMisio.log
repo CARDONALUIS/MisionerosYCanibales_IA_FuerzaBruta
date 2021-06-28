@@ -1,0 +1,6 @@
+﻿  Estado.cpp
+  PruebaMisio.cpp
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\PruebaMisio\PruebaMisio\PruebaMisio.cpp(22,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\PruebaMisio\PruebaMisio\PruebaMisio.cpp(20,15): warning C4101: 'r': variable local sin referencia
+  Generando código...
+  PruebaMisio.vcxproj -> C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\PruebaMisio\x64\Debug\PruebaMisio.exe
